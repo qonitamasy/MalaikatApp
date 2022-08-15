@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MalaikatApp</string>
+    <string name="malaikat_nama">Malaikat Nama</string>
+    <string name="malaikat_duty">Malaikat Duty</string>
+    <string name="thumbnail_image">thumbnail_image</string>
+    <string name="duty_malaikat">Duty Malaikat</string>
+    <string name="description">Description</string>
+    <string name="detail_malaikat">Detail Malaikat</string>
+    <string name="name">Qonita Masyitoh</string>
+    <string name="email">qonitamasitoh212@gmail.com</string>
+    <string name="born">2 Desember 2005</string>
+    <string name="profil">PROFIL</string>
+
+</resources>
